@@ -1,0 +1,12 @@
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\MMOKPI.exe.config
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\MMOKPI.exe
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\MMOKPI.pdb
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\Newtonsoft.Json.dll
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\Telegram.Bot.dll
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\Newtonsoft.Json.xml
+D:\KPI\MMOKPI\MMOKPI\bin\Debug\Telegram.Bot.xml
+D:\KPI\MMOKPI\MMOKPI\obj\Debug\MMOKPI.csprojAssemblyReference.cache
+D:\KPI\MMOKPI\MMOKPI\obj\Debug\MMOKPI.csproj.CoreCompileInputs.cache
+D:\KPI\MMOKPI\MMOKPI\obj\Debug\MMOKPI.csproj.CopyComplete
+D:\KPI\MMOKPI\MMOKPI\obj\Debug\MMOKPI.exe
+D:\KPI\MMOKPI\MMOKPI\obj\Debug\MMOKPI.pdb
